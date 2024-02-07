@@ -73,7 +73,7 @@ Password: simplifi@123 ( plaintext )
 In this query, the FOR XML PATH('') clause is used to concatenate the query results into XML format and to obtain a scalar result.
 In practice, this allows the obtained data to be retrieved as a single string, easily manipulable and usable within the SQL injection. The use of FOR XML PATH('') is not necessary in all SQL injection queries, but it can be used to format the results in a way that allows for efficient exploitation of the vulnerability.
 
-We are done for tested my MSSQL Server.
+We are done tested my MSSQL Server.
 
 
 
