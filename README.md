@@ -70,7 +70,10 @@ http://localhost/Category-Product.aspx?id=-6&' union select 1,(select User_Name,
 Username: Admin
 Password: simplifi@123 ( plaintext )
 ```
-We are done for tested my MsSQL db.
+In this query, the FOR XML PATH('') clause is used to concatenate the query results into XML format and to obtain a scalar result.
+In practice, this allows the obtained data to be retrieved as a single string, easily manipulable and usable within the SQL injection. The use of FOR XML PATH('') is not necessary in all SQL injection queries, but it can be used to format the results in a way that allows for efficient exploitation of the vulnerability.
+
+We are done for tested my MSSQL Server.
 
 
 
