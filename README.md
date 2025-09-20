@@ -75,6 +75,8 @@ In practice, this allows the obtained data to be retrieved as a single string, e
 
 We are done tested my MSSQL Server.
 
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-3d9970?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TheRootGod)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nistor-alexandru-cosmin-a900b5278/)
 
 
 
