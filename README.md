@@ -1,4 +1,4 @@
-# MSSQL-Injection
+# Exploiting MSSQL Injection to extract sensitive data from a production-like environment
 
 Now let's get started the ERROR BASED INJECTION on MSSQL server, MSSQL it's Microsoft SQL Server in this post i will use error based injection with malicious interogation for manipulation database and extract administrator credentials. I will use a vulnerable aspx app in localhost for this example. I do not support these illegal activities !
 ```sql
